@@ -1,10 +1,10 @@
 # Starter Code Doesn't Match Assignment
 
-Darn, so disappointing, yet again. Completing this assignment has been another example of a task not being explained well and us not being actually taught by the program we paid over $6,000 for.
+Darn... Completing this assignment has been another example of a graded assignment not being explained well. None of the advanced JavaScript used was actually taught by the program we paid over $6,000 for.
 
-Unfortunately, I don't think the recorded videos used to "teach" us are a complete set. The video says things like "you'll remember when we did x, y, z... but we didn't ever do x, y, z! Very strange...
+Unfortunately, I don't think the recorded videos used to "teach" us are a complete set. The video for this task says things like "you'll remember when we did x, y, z... but we didn't ever do x, y, z! Very strange... and worrisome.
 
-It's seems like the video was talking to a completely different class. I think they're editing and/or omitting videos and giving us less information. Our Modules in their current state are too erratic to honestly be a comprehensive course created and sanctioned by MIT. I have a sneaking suspicion that this course used to be coherent, but has been butchered and spliced beyond recognition.
+It seems as if the video was talking to a completely different class. I think they're editing and/or omitting videos, therefore giving us less information. Our Modules in their current state are too erratic to honestly be a comprehensive course created and sanctioned by MIT. I have a sneaking suspicion that this course used to be coherent, but has been butchered and spliced beyond recognition.
 
 The README below was included in the starter code. It doesn't match our Codio assignment, and there are also files we don't use. It looks like this Module was butchered and they didn't clean up all the mess. They left these wayward files and outdated README behind.
 
