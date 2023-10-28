@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "mod-5-walk-boston",
+  "version": "1.0.0",
+  "description": "Darn, so disappointing, yet again. Completing this assignment has been another example of a task not being explained well and us not being actually taught by the program we paid over $6,000 for.",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
