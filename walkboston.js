@@ -27,7 +27,8 @@ function renderTopSalaries(boston, container) {
     .slice(0, 5);
 
   // * variable html is set to a string
-  // * HTML will use this unordered list, so this needs to a string
+  // * HTML will use this unordered list, so this needs to be a string
+  // * note: this is the opening tag for the <ul>, we'll close it much later
   let html = '<ul id="topSalaries">';
 
   // * using a for...of loop to iterate through the newly sliced array from data.js
