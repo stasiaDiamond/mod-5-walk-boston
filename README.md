@@ -2,7 +2,7 @@
 
 Darn... Completing this assignment has been another example of a graded assignment not being explained well. None of the advanced JavaScript used was actually taught by the program we paid over $6,000 for. I had to use JS and HTML module exports/imports and create a package.json to eliminate errors in the dev console. I'm sure there are much better ways to accomplish this, so maybe I'll come back to this repo after my course is finished.
 
-Unfortunately, I don't think the recorded videos used to "teach" us are a complete set. The video for this task says things like "you'll remember when we did x, y, z... but we didn't ever do x, y, z! Very strange... and worrisome.
+Unfortunately, I don't think the recorded videos used to "teach" us are a complete set. The video for this task says things like "you'll remember when we did x, y, z... but we didn't ever do x, y, z! We certainly have never seen curl explained to us. Very strange... and worrisome.
 
 It seems as if the video was talking to a completely different class. I think they're editing and/or omitting videos, therefore giving us less information. Our Modules in their current state are too erratic to honestly be a comprehensive course created and sanctioned by MIT. I have a sneaking suspicion that this course used to be coherent, but has been butchered and spliced beyond recognition.
 
